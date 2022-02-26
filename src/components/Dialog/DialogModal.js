@@ -3,7 +3,7 @@ import './DialogModal.css';
 
 const DialogModal = ()=>{
     return(
-        <div>DialogModal</div>
+        <div>DialogModalFireworks</div>
     )
 }
 
