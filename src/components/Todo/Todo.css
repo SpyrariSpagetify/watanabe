@@ -1,0 +1,7 @@
+.todo-wrapper {
+  width: 500px;
+  min-height: 300px;
+  margin: 50px auto auto 300px;
+  border-radius: 20px;
+  box-shadow: 0 0 7px rgb(300 0 0 /80%);
+}
