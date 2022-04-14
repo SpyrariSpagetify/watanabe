@@ -1,0 +1,17 @@
+[33mcommit e7bfe3a075bbc7f3619a8456258a7b98aa9438f3[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Sanic <zarathystra.fish@gmail.com>
+Date:   Sat Feb 26 22:58:13 2022 +0300
+
+    sanic
+
+[33mcommit 3e6f95b95339135b7dcf396063acb0e9220dc081[m[33m ([m[1;32mfox[m[33m)[m
+Author: fry tios <mad4brain@gmail.com>
+Date:   Sat Feb 26 20:24:30 2022 +0300
+
+    initial d
+
+[33mcommit 8a935f012dc98fddbc914c4e1fc6c1ce5974e365[m
+Author: fry tios <mad4brain@gmail.com>
+Date:   Sat Feb 26 08:19:53 2022 +0300
+
+    Initialize project using Create React App
